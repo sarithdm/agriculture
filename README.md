@@ -7,3 +7,5 @@ Participants are requested to create an account in https://www.kaggle.com/ for t
 # [Dataset](https://www.kaggle.com/emmarex/plantdisease)
 
 # [Kaggle Notebook](https://www.kaggle.com/sarithdivakar/plant-disease-detection-using-keras)
+
+# [Session Recording](https://youtu.be/a1qtN2hptXs)
